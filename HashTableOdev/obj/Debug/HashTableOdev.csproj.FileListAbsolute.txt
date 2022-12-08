@@ -1,0 +1,8 @@
+C:\Users\Furkan\source\repos\HashTableOdev\HashTableOdev\obj\Debug\HashTableOdev.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\HashTableOdev\HashTableOdev\obj\Debug\HashTableOdev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\HashTableOdev\HashTableOdev\obj\Debug\HashTableOdev.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\HashTableOdev\HashTableOdev\bin\Debug\HashTableOdev.exe.config
+C:\Users\Furkan\source\repos\HashTableOdev\HashTableOdev\bin\Debug\HashTableOdev.exe
+C:\Users\Furkan\source\repos\HashTableOdev\HashTableOdev\bin\Debug\HashTableOdev.pdb
+C:\Users\Furkan\source\repos\HashTableOdev\HashTableOdev\obj\Debug\HashTableOdev.exe
+C:\Users\Furkan\source\repos\HashTableOdev\HashTableOdev\obj\Debug\HashTableOdev.pdb
